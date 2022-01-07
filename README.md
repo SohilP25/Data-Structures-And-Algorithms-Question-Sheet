@@ -2,3 +2,4 @@
 ## 1. Array - Maths - Hashing
 1. [ Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 2. [ Pascal's Triangle ](https://leetcode.com/problems/pascals-triangle/)
+3. [ Next Permutation ](https://leetcode.com/problems/next-permutation/)
